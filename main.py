@@ -4,6 +4,7 @@ contact3 = ["Jason", "123 Applewood Gate", "Calgary", "403-123-4536"]
 contact4 = ["Riu", "123 Applewood Gate", "Calgary", "403-123-3211"]
 contact5 = ["Mo", "123 Applewood Gate", "Calgary", "403-123-1555"]
 
+#Add into the addressbook all of my contacts.
 addressBook = []
 addressBook.append(contact1)
 addressBook.append(contact2)
